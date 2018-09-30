@@ -5,7 +5,7 @@ tagline = "Learn. Reflect. Create. Grow."
 
 Hi, I am **Benjamin Mateev**, 
 
-I am real Berliner. Born in Sofia, Bulgaria, I grew up in on east side of Berlin. I love technology and I have been building digital solutions for almost 20 years now.
+I am Berliner. Born in Sofia, Bulgaria, I grew up in on east side of Berlin. I love technology, I love to learn to new things and I have combined the two by working as an engineer and product manager for almost 20 years now.
 
 Over the last decade, I studied Computer Science with some economics, philosphy and psyhocology. I have worked in various startups, founded an agency and was most recently a lead engineer at [Wunderlist](http://www.wunderlist.coms), a Berlin-born, design-lead to-do list application, that was sold to [Microsoft](http://www.microsoft.com) in 2015. Now I am a Product Mananger for digital memory and task management experiences across the Office and Windows ecosystems. Througout my career I have seen companies succeed and fail, I have managed teams, small and big, worked as a freelancer, as an employee in startups and corporates, across different time zones and continents and with many different cultures.
 
