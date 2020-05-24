@@ -28,7 +28,7 @@ copyright = "&copy;2020 Benjamin Mateev"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/background.jpg"
+      file = "images/background-new.jpg"
       position = "center center"
 
     # Video
