@@ -9,7 +9,7 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 googleAnalytics = "UA-1137676-7"
 
 # Copyright
-copyright = "&copy;2018 Benjamin Mateev"
+copyright = "&copy;2020 Benjamin Mateev"
 
 [params]
 
@@ -50,7 +50,7 @@ copyright = "&copy;2018 Benjamin Mateev"
         url = "mailto:benjamin.mateev@gmail.com"
 
       [[params.links.list1.link]]
-        text = "Blog"
+        text = "Writing"
         url = "https://medium.com/@benjaminmateev"
 
       [[params.links.list1.link]]
@@ -76,7 +76,7 @@ copyright = "&copy;2018 Benjamin Mateev"
 
         [[params.links.list2.link]]
         text = "Goodreads"
-        url = "https://twitter.com/benjaminmateev"
+        url = "https://www.goodreads.com/user/show/83860601-benjamin-mateev"
 
   # Links List #3
   [[params.links]]
@@ -96,6 +96,6 @@ copyright = "&copy;2018 Benjamin Mateev"
         url = "http://definingthenextdecade.com/"
 
       [[params.links.list3.link]]
-        text = "EYES"
-        url = "http://eyesinternational.org/"
+        text = "Sandbox"
+        url = "https://sandbox.is/"
         
