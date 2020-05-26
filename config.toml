@@ -48,11 +48,12 @@ copyright = "&copy;2020 Benjamin Mateev"
       [[params.links.list1.link]]
         text = "Email"
         url = "mailto:benjamin.mateev@gmail.com"
-
+      [[params.links.list1.link]]
+        text = "Meet me"
+        url = "https://calendly.com/mateev/30min"
       [[params.links.list1.link]]
         text = "Writing"
         url = "https://medium.com/@benjaminmateev"
-
       [[params.links.list1.link]]
         text = "LinkedIn"
         url = "https://www.linkedin.com/in/benjaminmateev"
